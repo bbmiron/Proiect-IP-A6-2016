@@ -15,6 +15,7 @@ https://www.youtube.com/watch?v=73I5dRucCds -> tutorial pentru Git
       |                      | [Secventa](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MServer/P_Nastaca_Gheorghita/Diagrame/Secventa.png)
       | Nastasa Bogdan       | [Deployment](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MServer/P_Nastasa_Bogdan/Diagrame/Diagrama_Deployment.png)
       |                      | [Colaborare](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MServer/P_Nastasa_Bogdan/Diagrame/Diagrama_Colaborare.png)
+      | Toti                 | [Clasa](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MServer/P_Nastaca_Gheorghita/Diagrame/Diagrama_Clasa.png)
 *Dirijor*|                   | 
       | **Avram Bogdan**     | [] ()
       |                      | [] ()
