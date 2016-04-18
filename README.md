@@ -1,7 +1,9 @@
 # Proiect-IP-A6-2016
 Proiect Ingineria Programarii grupa A6,  2016
 https://www.youtube.com/watch?v=73I5dRucCds -> tutorial pentru Git
-<br><h2><center>UPDATE DEADLINE</center></h2>
+<p align="center">
+	<br><h2>UPDATE DEADLINE</h2>
+</p>
  
  Modul|                    Nume                | Tip Diagrama 
 ------| ---------------------------------------| ------------  
