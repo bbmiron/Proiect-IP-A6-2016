@@ -2,7 +2,7 @@
 Proiect Ingineria Programarii grupa A6,  2016
 https://www.youtube.com/watch?v=73I5dRucCds -> tutorial pentru Git
 <p align="center">
-	<br><h2>UPDATE DEADLINE</h2>
+	<br><h2>[UPDATE DEADLINE](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/TERMENE_LIMITA.txt)</h2>
 </p>
  
  Modul|                    Nume                | Tip Diagrama 
