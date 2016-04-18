@@ -52,7 +52,7 @@ https://www.youtube.com/watch?v=73I5dRucCds -> tutorial pentru Git
       | **Stefan Cristian**  | [Deployment] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/deployment_diagram.PNG)
       |                      | [Use Case] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/useCase_diagram.PNG)
       | Timofte Samuel       | [Stari] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/state_diagram.PNG)
-      |                      | [Secventa] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/sequence_diagram.PNG)
+      |                      | [Secventa] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/sequence_diagram.PNG) OK
 
 
 
