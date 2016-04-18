@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=73I5dRucCds -> tutorial pentru Git
       |                      | [Pachete] ()
       | Malos Mihai          | [Colaborare] ()
       |                      | [Activitati] ()
-      | **Miron Bianaca**    | [Stari] ()
+      | **Miron Bianca**    | [Stari] ()
       |                      | [Secventa] ()
       | Saramet Stefan       | [Deployment] ()
       |                      | [Use Case] ()
