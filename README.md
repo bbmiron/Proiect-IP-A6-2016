@@ -40,8 +40,8 @@ https://www.youtube.com/watch?v=73I5dRucCds -> tutorial pentru Git
       |                      | [Secventa] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MAplicatie/Diagrama_de_activitati.png)
       | Tirel Cristian       | [Colaborare] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MAplicatie/Diagrama_de_colaborare.png)
       |                      | [Pachete] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MAplicatie/Diagrama_de_pachete.png)
-      | Vlad Minea           | [Use Case] ()
-      |                      | [Clasa] ()
+      | Vlad Minea           | [Use Case] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MAplicatie/Diagrama_Use_case.png)
+      |                      | [Clasa] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MAplicatie/Diagrama_de_clase.png)
       | Pila Alexandru       | [Activitati] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MAplicatie/Diagrama_de_secventa.png)
       |                      | [Deployment] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MAplicatie/Diagrama_de_deployment.png)
 *Calculatoare*|              | 
