@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=73I5dRucCds -> tutorial pentru Git
 *Dirijor*|                   | 
       | **Avram Bogdan**     | [Activitate] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Avram_Bogdan_Diagrama_Activitate.png)
       |                      | [Colaborare] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Avram_Bogdan_Diagrama_Colaborare.png)
-      | Basescu Andrei       | [Clasa] https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Basescu_Andrei_Diagrama_Clasa.png)
+      | Basescu Andrei       | [Clasa] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Basescu_Andrei_Diagrama_Clasa.png)
       |                      | [Pachete] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Basescu_Andrei_Diagrama_Pachete.png)
       | Gabor Iuliana        | [Secventa] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Gabor_Iuliana_Diagrama_Secventa.png)
       |                      | [Stari] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Gabor_Iuliana_Diagrama_Stare.png)
