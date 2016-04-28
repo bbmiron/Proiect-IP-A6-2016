@@ -6,8 +6,8 @@ https://www.youtube.com/watch?v=73I5dRucCds -> tutorial pentru Git
  Modul|                    Nume                | Tip Diagrama | Task-uri
 ------| ---------------------------------------| ------------ |----------- 
 *Server*|                    |
-      | Danila Alex          | [Use Case](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MServer/P_Danila_Alexandru/Diagrame/UseCaseDiagram.png)                |
-      |                      | [Pachete](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MServer/P_Danila_Alexandru/Diagrame/PackageDiagram.png)                 |
+      | Danila Alex          | [Use Case](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MServer/P_Danila_Alexandru/Diagrame/UseCaseDiagram.png)                |Baza de date+script
+      |                      | [Pachete](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MServer/P_Danila_Alexandru/Diagrame/PackageDiagram.png)                 |Conexiune BD
       | Guzovatii Anatolii   | [Activitati I](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MServer/P_Guzovatii_Anatolii/Diagrame/Diagrama_Activitati.png)     | 
       |                      | [Activitati II](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MServer/P_Guzovatii_Anatolii/Diagrame/Diagrama_Activitati2.png)   |
       |**Nastaca Gheorghita**| [Stari I](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MServer/P_Nastaca_Gheorghita/Diagrame/Stari1.png)                       |
