@@ -8,8 +8,8 @@ https://www.youtube.com/watch?v=73I5dRucCds -> tutorial pentru Git
 *Server*|                    |
       | Danila Alex          | [Use Case](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MServer/P_Danila_Alexandru/Diagrame/UseCaseDiagram.png)                |Baza de date+script
       |                      | [Pachete](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MServer/P_Danila_Alexandru/Diagrame/PackageDiagram.png)                 |Conexiune BD
-      | Guzovatii Anatolii   | [Activitati I](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MServer/P_Guzovatii_Anatolii/Diagrame/Diagrama_Activitati.png)     | 
-      |                      | [Activitati II](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MServer/P_Guzovatii_Anatolii/Diagrame/Diagrama_Activitati2.png)   |
+      | Guzovatii Anatolii   | [Activitati I](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MServer/P_Guzovatii_Anatolii/Diagrame/Diagrama_Activitati.png)     |Algoritm dtectare
+      |                      | [Activitati II](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MServer/P_Guzovatii_Anatolii/Diagrame/Diagrama_Activitati2.png)   |secventa
       |**Nastaca Gheorghita**| [Stari I](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MServer/P_Nastaca_Gheorghita/Diagrame/Stari1.png)                       |
       |                      | [Stari II](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MServer/P_Nastaca_Gheorghita/Diagrame/Stari2.png)                      |
       |                      | [Secventa](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MServer/P_Nastaca_Gheorghita/Diagrame/Secventa.png)                    |
