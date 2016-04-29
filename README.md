@@ -17,14 +17,14 @@ https://www.youtube.com/watch?v=73I5dRucCds -> tutorial pentru Git
       |                      | [Colaborare](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MServer/P_Nastasa_Bogdan/Diagrame/Diagrama_Colaborare.png)           |Creare server concurent
       | Toti                 | [Clasa](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MServer/P_Nastaca_Gheorghita/Diagrame/Diagrama_Clasa.png)                 |
 *Dirijor*|                   |                                                                                                                                                     |
-      | **Avram Bogdan**     | [Activitate] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Avram_Bogdan_Diagrama_Activitate.png)                      |                       
-      |                      | [Colaborare] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Avram_Bogdan_Diagrama_Colaborare.png)                      | 
-      | Basescu Andrei       | [Clasa] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Basescu_Andrei_Diagrama_Clasa.png)                              | 
-      |                      | [Pachete] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Basescu_Andrei_Diagrama_Pachete.png)                          | 
-      | Gabor Iuliana        | [Secventa] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Gabor_Iuliana_Diagrama_Secventa.png)                         | 
-      |                      | [Stari] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Gabor_Iuliana_Diagrama_Stare.png)                               | 
-      | Iancu Florina        | [Use Case] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Iancu_Florina_Diagrama_UseCase.png)                          | 
-      |                      | [Deployment] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Iancu_Florina_Diagrama_Deployment.png)                     | 
+      | **Avram Bogdan**     | [Activitate] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Avram_Bogdan_Diagrama_Activitate.png)                      |    Dirijor Calculatoare                    
+      |                      | [Colaborare] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Avram_Bogdan_Diagrama_Colaborare.png)                      |     Integrare componente 
+      | Basescu Andrei       | [Clasa] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Basescu_Andrei_Diagrama_Clasa.png)                              |   Dirijor Calculatoare
+      |                      | [Pachete] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Basescu_Andrei_Diagrama_Pachete.png)                          |      Dirijor Server
+      | Gabor Iuliana        | [Secventa] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Gabor_Iuliana_Diagrama_Secventa.png)                         |       Indexarea calculatoarelor
+      |                      | [Stari] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Gabor_Iuliana_Diagrama_Stare.png)                               |       Dirijor Server
+      | Iancu Florina        | [Use Case] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Iancu_Florina_Diagrama_UseCase.png)                          |           Dirijor Admin
+      |                      | [Deployment] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Iancu_Florina_Diagrama_Deployment.png)                     |             Integrare
 *Admin*|                     |          																					 									                   | 
       | Grigoruta Alex       | [Clasa] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MAdmin/Diagrama%20Clasa.png)                                             | 
       |                      | [Pachete] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MAdmin/Pachete.png)                                                    | 
