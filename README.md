@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=73I5dRucCds -> tutorial pentru Git
       | **Avram Bogdan**     | [Activitate] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Avram_Bogdan_Diagrama_Activitate.png)                      |    Dirijor Calculatoare                    
       |                      | [Colaborare] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Avram_Bogdan_Diagrama_Colaborare.png)                      |     Integrare componente 
       | Basescu Andrei       | [Clasa] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Basescu_Andrei_Diagrama_Clasa.png)                              |   Dirijor Calculatoare
-      |                      | [Pachete] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Basescu_Andrei_Diagrama_Pachete.png)                          |      Dirijor Server
+      |                      | [Pachete] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Basescu_Andrei_Diagrama_Pachete.png)                          |      Dirijor Admin
       | Gabor Iuliana        | [Secventa] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Gabor_Iuliana_Diagrama_Secventa.png)                         |       Indexarea calculatoarelor
       |                      | [Stari] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Gabor_Iuliana_Diagrama_Stare.png)                               |       Dirijor Server
       | Iancu Florina        | [Use Case] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Iancu_Florina_Diagrama_UseCase.png)                          |           Dirijor Admin
