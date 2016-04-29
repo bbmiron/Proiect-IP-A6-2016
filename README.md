@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=73I5dRucCds -> tutorial pentru Git
       | Gabor Iuliana        | [Secventa] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Gabor_Iuliana_Diagrama_Secventa.png)                         |       Indexarea calculatoarelor
       |                      | [Stari] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Gabor_Iuliana_Diagrama_Stare.png)                               |       Dirijor Server
       | Iancu Florina        | [Use Case] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Iancu_Florina_Diagrama_UseCase.png)                          |           Dirijor Admin
-      |                      | [Deployment] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Iancu_Florina_Diagrama_Deployment.png)                     |             Integrare
+      |                      | [Deployment] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MDirijor/Iancu_Florina_Diagrama_Deployment.png)                     |             Integrare componente
 *Admin*|                     |          																					 									                   | 
       | Grigoruta Alex       | [Clasa] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MAdmin/Diagrama%20Clasa.png)                                             | 
       |                      | [Pachete] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MAdmin/Pachete.png)                                                    | 
