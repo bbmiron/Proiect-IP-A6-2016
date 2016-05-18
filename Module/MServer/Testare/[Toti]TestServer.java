@@ -148,7 +148,8 @@ public class TestServer {
             client.start();
 
         }
-            Assert.assertTrue(test.contains("test"));// daca nu a intervenit o eroare 
+            Assert.assertTrue(test.contains("test"));// daca functia nu a fost blocat si a ajuns in acest 
+			                                         //punct inseamna ca este ok.
     }
     
 
