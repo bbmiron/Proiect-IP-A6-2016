@@ -3,8 +3,8 @@ Proiect Ingineria Programarii grupa A6,  2016
 https://www.youtube.com/watch?v=73I5dRucCds -> tutorial pentru Git
 [<h3>UPDATE DEADLINE</h3>](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/TERMENE_LIMITA.md)
 
- Modul|                    Nume                | Tip Diagrama | Task-uri  | Testare
-------| ---------------------------------------| ------------ |-----------|---------
+ Modul|                    Nume                | Tip Diagrama | Task-uri  | Testare + CodModul
+------| ---------------------------------------| ------------ |-----------|-------------------
 *Server*|                    |
       | Danila Alex          | [Use Case](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MServer/P_Danila_Alexandru/Diagrame/UseCaseDiagram.png)                |Baza de date+script               |
       |                      | [Pachete](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MServer/P_Danila_Alexandru/Diagrame/PackageDiagram.png)                 |Conexiune BD                      |
