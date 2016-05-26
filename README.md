@@ -2,8 +2,9 @@
 Proiect Ingineria Programarii grupa A6,  2016
 https://www.youtube.com/watch?v=73I5dRucCds -> tutorial pentru Git
 [<h3>UPDATE DEADLINE</h3>](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/TERMENE_LIMITA.md)
-![alt tag] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/AppImage/test7.png)
 [SERVER GUI] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/AppImage/info.txt)
+![alt tag] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/AppImage/test7.png)
+![alt tag](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/AppImage/test3.png)
 
  Modul|                    Nume                | Tip Diagrama | Task-uri  | Testare + CodModul
 ------| ---------------------------------------| ------------ |-----------|-------------------
