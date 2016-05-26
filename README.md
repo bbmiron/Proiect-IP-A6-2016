@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=73I5dRucCds -> tutorial pentru Git
 [SERVER GUI] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/AppImage/info.txt)
 ![alt tag] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/AppImage/test7.png)
 ![alt tag](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/AppImage/test3.png)
+![alt tag](https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/AppImage/test8.png)
 
  Modul|                    Nume                | Tip Diagrama | Task-uri  | Testare + CodModul
 ------| ---------------------------------------| ------------ |-----------|-------------------
