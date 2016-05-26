@@ -1,0 +1,9 @@
+Interfata grafica permite vizualizarea de catre administratorul serverului a  stadiului in care se afla prelucrarea datelor venite de la utilizatori.
+Pentru fiecare client conectat la aplicatie se va crea un tab nou.
+Fiecare tab contine:
+- pe linie -> calculatoarele care trebuie sa le apeleze pentru a obtine rezultatul dorit,
+- pe coloana -> toate calculatoarele care rezolva acceasi functionalitate.
+Cand un calculator este in lucru va aparea colorat cu verde.
+Daca un calculator este blocat de catre un alt user acesta va aparea colorat cu rosu. 
+
+Dupa finalizarea unei cereri tab-ul va disparea in 3 secunde.
