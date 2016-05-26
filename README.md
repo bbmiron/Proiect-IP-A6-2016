@@ -44,14 +44,14 @@ https://www.youtube.com/watch?v=73I5dRucCds -> tutorial pentru Git
       | Pila Alexandru       | [Activitati] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MAplicatie/Diagrama_de_secventa.png)                                |                                  |
       |                      | [Deployment] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MAplicatie/Diagrama_de_deployment.png)                              |                                  |
 *Calculatoare*|              |                                                                                                                                                     |                                  |                              
-      | Iacob Cosmin         | [Colaborare] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/collaboration_diagram.PNG)                   |                                  |
-      |                      | [Pachete] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/package_diagram.PNG)                            |                                  |
-      | Pascaru Stefan       | [Activitati] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/activity_diagram.PNG)                        |                                  |
-      |                      | [Clasa] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/class_diagram.PNG)                                |                                  |
-      | **Stefan Cristian**  | [Deployment] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/deployment_diagram.PNG)                      |                                  |
-      |                      | [Use Case] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/useCase_diagram.PNG)                           |                                  |
-      | Timofte Samuel       | [Stari] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/state_diagram.PNG)                                |                                  |
-      |                      | [Secventa] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/sequence_diagram.PNG)                          |                                  |
+      | Iacob Cosmin         | [Colaborare] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/collaboration_diagram.PNG)                   |coordinates_cityState             |
+      |                      | [Pachete] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/package_diagram.PNG)                            |Database                          |
+      | Pascaru Stefan       | [Activitati] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/activity_diagram.PNG)                        |CityState_Wether                  |[Cod] (https://github.com/gnastaca/Proiect-IP-A6-2016/tree/master/Module/MCalculatoare/cod)
+      |                      | [Clasa] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/class_diagram.PNG)                                |Server+Database                   |
+      | **Stefan Cristian**  | [Deployment] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/deployment_diagram.PNG)                      |cityState_Coordinates             |[Testare](https://github.com/gnastaca/Proiect-IP-A6-2016/tree/master/Module/MCalculatoare/Testare)
+      |                      | [Use Case] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/useCase_diagram.PNG)                           |city_Population+Database+Server   |
+      | Timofte Samuel       | [Stari] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/state_diagram.PNG)                                |cityDistrict_Coordinates          |
+      |                      | [Secventa] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/sequence_diagram.PNG)                          |Database                          |
 
 
 
