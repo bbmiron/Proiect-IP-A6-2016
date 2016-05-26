@@ -44,7 +44,6 @@ https://www.youtube.com/watch?v=73I5dRucCds -> tutorial pentru Git
       | Pila Alexandru       | [Activitati] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MAplicatie/Diagrama_de_secventa.png)                                |                                  |
       |                      | [Deployment] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MAplicatie/Diagrama_de_deployment.png)                              |                                  |
 *Calculatoare*|              |                                                                                                                                                     |                                  |                              
-<<<<<<< HEAD
       | Iacob Cosmin         | [Colaborare] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/collaboration_diagram.PNG)                   |coordinates_cityState             |
       |                      | [Pachete] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/package_diagram.PNG)                            |Database                          |
       | Pascaru Stefan       | [Activitati] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/activity_diagram.PNG)                        |CityState_Wether                  |[Cod] (https://github.com/gnastaca/Proiect-IP-A6-2016/tree/master/Module/MCalculatoare/cod)
@@ -54,18 +53,7 @@ https://www.youtube.com/watch?v=73I5dRucCds -> tutorial pentru Git
       | Timofte Samuel       | [Stari] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/state_diagram.PNG)                                |cityDistrict_Coordinates          |
       |                      | [Secventa] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/sequence_diagram.PNG)                          |Database                          |
 
-=======
-      | Iacob Cosmin         | [Colaborare] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/collaboration_diagram.PNG)                   |                                  |
-      |                      | [Pachete] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/package_diagram.PNG)                            |                                  |
-      | Pascaru Stefan       | [Activitati] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/activity_diagram.PNG)                        |                                  |
-      |                      | [Clasa] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/class_diagram.PNG)                                |                                  |
-      | **Stefan Cristian**  | [Deployment] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/deployment_diagram.PNG)                      |                                  |
-      |                      | [Use Case] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/useCase_diagram.PNG)                           |                                  |
-      | Timofte Samuel       | [Stari] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/state_diagram.PNG)                                |                                  |
-      |                      | [Secventa] (https://github.com/gnastaca/Proiect-IP-A6-2016/blob/master/Module/MCalculatoare/diagrame/sequence_diagram.PNG)                          |                                  |
-      | Toti                 |                       |                                                                               
-      |                      |                    |     
->>>>>>> 71d0fdf4ba9b303d64de86872d16077090e4d7f0
+
 
 
 
